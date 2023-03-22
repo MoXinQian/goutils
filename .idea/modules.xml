@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/goutils.iml" filepath="$PROJECT_DIR$/.idea/goutils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DeepSSD_GoDataBackup.iml" filepath="$PROJECT_DIR$/.idea/DeepSSD_GoDataBackup.iml" />
     </modules>
   </component>
 </project>
